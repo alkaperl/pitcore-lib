@@ -1,0 +1,30 @@
+{
+  "name": "pitcore-lib",
+  "main": "./pitcore-lib.min.js",
+  "version": "0.13.19",
+  "homepage": "http://pitcore.io",
+  "authors": [
+    "BitPay, Inc."
+  ],
+  "description": "A pure, powerful core for your pitcoin project.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "pitcoin",
+    "pitcore",
+    "btc",
+    "satoshi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "CONTRIBUTING.md",
+    "gulpfile.js",
+    "lib",
+    "index.js",
+    "karma.conf.js",
+    "npm-shrinkwrap.json",
+    "test"
+  ]
+}
